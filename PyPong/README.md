@@ -1,3 +1,13 @@
 # Implementing Pong in PyGame
 
 * Exploring and practicing Object-Oriented Programming Design Principles with the Pygame Library.
+
+## Flowchart Representation of how the Pong Program is played
+
+[![Pong Program Structure](https://mermaid.ink/img/pako:eNp9kj9vwjAQxb_KyRNIILUdOmRoVfIH6FBFpUuVMJziAywcH3UctSnhuzeQIJEK4en0fu-e7bP3ImNJwhNri7sNfASpgWa9JHEVs1kvYTx-qudGOYVa_RLE1RpzqmEyuB_HGiuywBYeunrYdk-OXeAPAovf4HO-Y0PGFUNosX_Cwf69NOBrzrbABh7vYGWb6OLQmoKTKUwmqPXyUoqSGKXU1BOnScTG9aRZssjYnm3RSat91lpJknWT3IsJ__PocueWzgfdjb9K5Yrn4WXydTa9wWY32Lw9zScVNbwm4Y9y3eCXPf7G9ZUxRu0YxUjkZHNUsnnd_bEvFW5DOaXCa0qJdpuK1Bx95U6io1Aqx1Z4K9QFjQSWjheVyYTnbElnU6Cw-Sl55zr8AXjdrtc)](https://mermaid.live/edit#pako:eNp9kj9vwjAQxb_KyRNIILUdOmRoVfIH6FBFpUuVMJziAywcH3UctSnhuzeQIJEK4en0fu-e7bP3ImNJwhNri7sNfASpgWa9JHEVs1kvYTx-qudGOYVa_RLE1RpzqmEyuB_HGiuywBYeunrYdk-OXeAPAovf4HO-Y0PGFUNosX_Cwf69NOBrzrbABh7vYGWb6OLQmoKTKUwmqPXyUoqSGKXU1BOnScTG9aRZssjYnm3RSat91lpJknWT3IsJ__PocueWzgfdjb9K5Yrn4WXydTa9wWY32Lw9zScVNbwm4Y9y3eCXPf7G9ZUxRu0YxUjkZHNUsnnd_bEvFW5DOaXCa0qJdpuK1Bx95U6io1Aqx1Z4K9QFjQSWjheVyYTnbElnU6Cw-Sl55zr8AXjdrtc)
+
+## Scripts Involved
+
+* __main__.py -> entry point of our script
+* game.py
+* models.py [TBC]
